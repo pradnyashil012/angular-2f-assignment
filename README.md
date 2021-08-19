@@ -2,7 +2,7 @@
 
 Angular front-end made for java spring boot 2f authentication assignment
 
-##Steps to run
+## Steps to run the app
 
 1) Clone it to local disk
 2) Open in IDE
