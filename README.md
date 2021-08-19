@@ -1,6 +1,13 @@
 # Trail
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Angular front-end made for java spring boot 2f authentication assignment
+
+##Steps to run
+
+1) Clone it to local disk
+2) Open in IDE
+3) Run npm i
+4) Run ng serve
 
 ## Development server
 
