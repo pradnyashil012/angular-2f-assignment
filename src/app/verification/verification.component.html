@@ -1,0 +1,13 @@
+<div fxLayoutAlign="center center" fxFlexFill>
+    <mat-card fxFlex="25">
+        <mat-toolbar color="primary">Please verify OTP</mat-toolbar>
+        <form fxLayoutAlign="stretch" fxLayout="column" [formGroup]="formGroup" 
+        (ngSubmit)="verificationProcess()">
+            <mat-form-field >
+              <input matInput type="text" placeholder="OTP..." formControlName="token">
+            </mat-form-field>         
+            <button mat-raised-button color="primary" type="submit">Verify</button>
+          </form>
+          
+    </mat-card>
+</div>
